@@ -1,16 +1,142 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**KaveeshRamsarran/KaveeshRamsarran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Jai
 
-Here are some ideas to get you started:
+### I build playful software with practical instincts.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I like projects that feel alive: game systems, AI-assisted study tools, cinematic interfaces, useful dashboards, and experiments where data becomes something people can actually use.
+
+<a href="https://github.com/KaveeshRamsarran?tab=repositories">
+  <img src="https://img.shields.io/badge/repos-public_lab-111827?style=for-the-badge&logo=github&logoColor=white" alt="Public repositories" />
+</a>
+<a href="https://github.com/KaveeshRamsarran">
+  <img src="https://img.shields.io/badge/building-games_%7C_AI_%7C_web-2563EB?style=for-the-badge" alt="Building games, AI, and web projects" />
+</a>
+<a href="https://github.com/KaveeshRamsarran?tab=followers">
+  <img src="https://img.shields.io/github/followers/KaveeshRamsarran?style=for-the-badge&label=follow&color=0F766E" alt="GitHub followers" />
+</a>
+
+</div>
+
+---
+
+## Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>RoyaleAnalytics Project</h3>
+      <p>
+        Strategy-minded game work: the kind of project that mixes mechanics, balance, data,
+        and the fun of making complex systems readable.
+      </p>
+      <p>
+        <a href="https://github.com/2v2-Project/COMP3610_Project">
+          <img src="https://img.shields.io/badge/open-Clash_Royale_project-7C3AED?style=for-the-badge" alt="Open Clash Royale project" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3>Plant Disease Project</h3>
+      <p>
+        Applied AI with real-world usefulness: image/data workflows aimed at spotting
+        plant disease and turning technical models into practical help.
+      </p>
+      <p>
+        <a href="https://github.com/INFO3604/PlantDisease">
+          <img src="https://img.shields.io/badge/open-Plant_Disease_project-15803D?style=for-the-badge" alt="Open Plant Disease project" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+<details open>
+<summary><b>Profile Snapshot</b></summary>
+
+```js
+const jai = {
+  strengths: [
+    "turning ideas into interactive experiences",
+    "connecting AI/data work to everyday usefulness",
+    "designing game loops, simulations, and polished UI",
+    "learning fast across JavaScript, TypeScript, Python, and notebooks"
+  ],
+  passions: [
+    "game systems",
+    "AI learning tools",
+    "creative productivity",
+    "computer vision",
+    "front-end experiences with personality"
+  ],
+  currentEnergy: "building things people can play with, learn from, or use immediately"
+};
+```
+
+</details>
+
+<details>
+<summary><b>Project Constellation</b></summary>
+
+| Project | What it says about me |
+| --- | --- |
+| [Tempo](https://github.com/KaveeshRamsarran/Tempo) | I care about mood, timing, and cinematic product feel. |
+| [LifeXP](https://github.com/KaveeshRamsarran/LifeXP) | I like making productivity feel rewarding instead of flat. |
+| [Quizzr](https://github.com/KaveeshRamsarran/Quizzr) | I am drawn to AI that helps people study smarter. |
+| [TheWatchingDark](https://github.com/KaveeshRamsarran/TheWatchingDark) | I enjoy atmosphere, procedural spaces, and game tension. |
+| [EarthPlay](https://github.com/KaveeshRamsarran/EarthPlay) | I like simulation, pixel worlds, and systems that evolve. |
+| [COMP3607-Group-12](https://github.com/KaveeshRamsarran/COMP3607-Group-12) | I can work in structured team code with patterns, tests, and reports. |
+
+</details>
+
+<details>
+<summary><b>What I Like Building</b></summary>
+
+- Interfaces that have rhythm, motion, and a reason to exist.
+- Games and simulations where tiny rules create big emergent behavior.
+- AI tools that turn messy inputs into useful study, diagnosis, or decision support.
+- Data notebooks that reveal patterns instead of just producing charts.
+- Full-stack-ish experiments where the product idea matters as much as the code.
+
+</details>
+
+<details>
+<summary><b>Tech Palette</b></summary>
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/Java-0F172A?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+</p>
+
+</details>
+
+---
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=KaveeshRamsarran&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="Jai's GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaveeshRamsarran&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
+
+<br />
+
+<a href="https://github.com/KaveeshRamsarran?tab=repositories">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KaveeshRamsarran&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### Good software has a pulse.
+
+Mine usually starts somewhere between a game idea, a useful tool, and the question: "How can this feel better to use?"
+
+</div>
