@@ -1,10 +1,14 @@
 <div align="center">
 
-# Jai
+<table>
+  <tr>
+    <td width="68%" align="center">
 
-### I build playful software with practical instincts.
+<h1>Jai</h1>
 
-I like projects that feel alive: game systems, AI-assisted study tools, cinematic interfaces, useful dashboards, and experiments where data becomes something people can actually use.
+<h3>I build playful software with practical instincts.</h3>
+
+<p>I like projects that feel alive: game systems, AI-assisted study tools, cinematic interfaces, useful dashboards, and experiments where data becomes something people can actually use.</p>
 
 <a href="https://github.com/KaveeshRamsarran?tab=repositories">
   <img src="https://img.shields.io/badge/repos-public_lab-111827?style=for-the-badge&logo=github&logoColor=white" alt="Public repositories" />
@@ -15,6 +19,13 @@ I like projects that feel alive: game systems, AI-assisted study tools, cinemati
 <a href="https://github.com/KaveeshRamsarran?tab=followers">
   <img src="https://img.shields.io/github/followers/KaveeshRamsarran?style=for-the-badge&label=follow&color=0F766E" alt="GitHub followers" />
 </a>
+
+    </td>
+    <td width="32%" align="center">
+      <img src="https://media.tenor.com/Fi20Om-OCo4AAAAM/marvel-rivals-spider-man.gif" width="210" alt="Marvel Rivals Spider-Man GIF" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -102,32 +113,50 @@ const jai = {
 
 </details>
 
-<details>
-<summary><b>Tech Palette</b></summary>
+## Tech Stack
 
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-  <img src="https://img.shields.io/badge/Java-0F172A?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-</p>
-
-</details>
+<table>
+  <tr>
+    <td bgcolor="#0d1117">
+      <h3>Languages & Frameworks</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=python,js,html,css,react,fastapi,git,github,docker,mysql&theme=dark" alt="Python, JavaScript, HTML, CSS, React, FastAPI, Git, GitHub, Docker, and MySQL" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td bgcolor="#0d1117">
+      <h3>AI / Data Science</h3>
+      <p>
+        <img src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+        <img src="https://img.shields.io/badge/POLARS-5B2EE5?style=for-the-badge&logo=polars&logoColor=white" alt="Polars" />
+        <img src="https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+        <img src="https://img.shields.io/badge/XGBOOST-6D28D9?style=for-the-badge" alt="XGBoost" />
+        <img src="https://img.shields.io/badge/SHAP-111827?style=for-the-badge" alt="SHAP" />
+        <img src="https://img.shields.io/badge/MLFLOW-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=KaveeshRamsarran&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="Jai's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaveeshRamsarran&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
+<h2>GitHub Snapshot</h2>
 
-<br />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KaveeshRamsarran&theme=github_dark" alt="Jai's GitHub stats" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KaveeshRamsarran&theme=github_dark" alt="Top languages by repository" />
 
-<a href="https://github.com/KaveeshRamsarran?tab=repositories">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KaveeshRamsarran&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph" />
-</a>
+<hr />
+
+<h2>Contribution Snake</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KaveeshRamsarran/KaveeshRamsarran/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KaveeshRamsarran/KaveeshRamsarran/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/KaveeshRamsarran/KaveeshRamsarran/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
@@ -135,8 +164,8 @@ const jai = {
 
 <div align="center">
 
-### Good software has a pulse.
+<h3>Good software has a pulse.</h3>
 
-Mine usually starts somewhere between a game idea, a useful tool, and the question: "How can this feel better to use?"
+<p>Mine usually starts somewhere between a game idea, a useful tool, and the question: "How can this feel better to use?"</p>
 
 </div>
