@@ -19,11 +19,6 @@
 <a href="https://github.com/KaveeshRamsarran?tab=followers">
   <img src="https://img.shields.io/github/followers/KaveeshRamsarran?style=for-the-badge&label=follow&color=0F766E" alt="GitHub followers" />
 </a>
-
-    </td>
-    <td width="32%" align="center">
-      <img src="https://media.tenor.com/Fi20Om-OCo4AAAAM/marvel-rivals-spider-man.gif" width="210" alt="Marvel Rivals Spider-Man GIF" />
-    </td>
   </tr>
 </table>
 
@@ -149,14 +144,6 @@ const jai = {
 <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KaveeshRamsarran&theme=github_dark" alt="Top languages by repository" />
 
 <hr />
-
-<h2>Contribution Snake</h2>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KaveeshRamsarran/KaveeshRamsarran/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KaveeshRamsarran/KaveeshRamsarran/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/KaveeshRamsarran/KaveeshRamsarran/output/github-contribution-grid-snake.svg" />
-</picture>
 
 </div>
 
