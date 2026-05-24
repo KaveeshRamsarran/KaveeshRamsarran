@@ -43,7 +43,7 @@
       </p>
     </td>
     <td width="50%">
-      <h3>Plant Disease Project</h3>
+      <h3>SolanaSense Project</h3>
       <p>
         Applied AI with real-world usefulness: image/data workflows aimed at spotting
         plant disease and turning technical models into practical help.
